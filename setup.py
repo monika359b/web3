@@ -36,5 +36,5 @@ setup(
     ],
     packages=["web5"],
     include_package_data=True,
-    install_requires=["web2"]
+    install_requires=["web3"]
 )
