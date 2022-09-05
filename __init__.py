@@ -1,3 +1,0 @@
-"""
-An unoffical polygon deposit
-"""
